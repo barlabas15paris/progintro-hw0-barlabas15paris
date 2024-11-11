@@ -6,3 +6,4 @@ byte4: you_just_found_the_triwizard_cup
 byte5: sdi2000274_1729688274_1488184516_2_84_196_54_56238_22
 byte6: unzipping_was_never_so_easy
 byte7: tar_jokes_dont_stick
+byte8: no_more_secrets_from_you
